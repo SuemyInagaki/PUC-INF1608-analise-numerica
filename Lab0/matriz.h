@@ -2,6 +2,8 @@
 Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 0 - 12/08/2021
+
+NOTA: 10.0
 */
 #ifndef MATRIZ_H
 #define MATRIZ_H

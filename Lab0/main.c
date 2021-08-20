@@ -5,6 +5,8 @@ Lab 0 - 12/08/2021
 
 Para compilar
 gcc main.c matriz.c -o matriz
+
+NOTA: 10.0
 */
 
 #include <stdio.h>
