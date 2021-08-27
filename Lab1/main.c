@@ -3,6 +3,7 @@
 #include <math.h>
 #define PI 3.1415926535897932384
 
+//Nota: 10.0
 void testa(double x);
 //gcc main.c matriz.c -o matriz
 int main(){
