@@ -2,12 +2,11 @@
 Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 0 - 12/08/2021
-
-Para compilar
-gcc main.c matriz.c -o matriz
-
+Matrizes
 NOTA: 10.0
 */
+
+//gcc main.c matriz.c -o matriz
 
 #include <stdio.h>
 #include <stdlib.h>

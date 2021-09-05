@@ -1,3 +1,10 @@
+/*
+Nome: Suemy Inagaki Pinheiro Fagundes
+INF1608 - Analise Numerica
+Lab 1 - 19/08/2021
+Série de Taylor
+Nota: 10.0
+*/
 #include <stdio.h>
 #include "taylor.h"
 #include <math.h>

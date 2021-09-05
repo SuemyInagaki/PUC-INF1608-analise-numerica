@@ -2,6 +2,8 @@
 Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 2 - 26/08/2021
+Aproximação de Raizes
+Nota: 10.0
 */
 #ifndef RAIZ_H
 #define RAIZ_H

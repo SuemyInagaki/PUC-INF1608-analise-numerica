@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "taylor.h": "c",
+        "sistlinear.h": "c",
+        "stdlib.h": "c"
+    }
+}
