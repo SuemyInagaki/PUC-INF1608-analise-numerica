@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "taylor.h": "c",
         "sistlinear.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "interp.h": "c"
     }
 }
