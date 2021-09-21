@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 3 - 02/09/2021
 Sistema Linear
+Nota: 10.0
 */
 #ifndef SISTLINEAR_H
 #define SISTLINEAR_H
