@@ -6,7 +6,7 @@ Metodo dos Minimos Quadrados
 
 */
 
-//gcc main.c mmq.c -o mmq
+//gcc main.c mmq.c matriz.c sistlinear.c -lm -o mmq
 
 #include "mmq.h"
 #include "matriz.h"
