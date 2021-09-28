@@ -3,7 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 4 - 14/09/2021
 Interpolação de Polinomios
-
+Nota: 10.0
 */
 
 //gcc main.c interp.c -o interp
