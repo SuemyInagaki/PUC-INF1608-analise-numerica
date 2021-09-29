@@ -4,6 +4,8 @@
         "taylor.h": "c",
         "sistlinear.h": "c",
         "stdlib.h": "c",
-        "interp.h": "c"
+        "interp.h": "c",
+        "integral.h": "c",
+        "cmath": "c"
     }
 }
