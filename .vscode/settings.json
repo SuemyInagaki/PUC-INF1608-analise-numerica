@@ -6,6 +6,7 @@
         "stdlib.h": "c",
         "interp.h": "c",
         "integral.h": "c",
-        "cmath": "c"
+        "cmath": "c",
+        "ode.h": "c"
     }
 }

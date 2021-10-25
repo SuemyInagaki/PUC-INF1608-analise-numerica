@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 5 - 21/09/2021
 Metodo dos Minimos Quadrados
+Nota: 10.0
 */
 #ifndef MMQ_H
 #define MMQ_H
