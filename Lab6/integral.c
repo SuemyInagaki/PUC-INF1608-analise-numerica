@@ -3,7 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 6 - 28/09/2021
 Metodos de Integração e Derivação
-
+Nota: 10.0
 */
 
 #include "integral.h"

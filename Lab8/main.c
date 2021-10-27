@@ -6,6 +6,7 @@ EDO
 */
 
 //gcc main.c ode.c -lm -o ode
+
 #include<stdio.h>
 #include<math.h>
 #include"ode.h"
