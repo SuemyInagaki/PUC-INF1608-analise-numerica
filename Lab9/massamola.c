@@ -47,6 +47,5 @@ void simula (double x0, double y0, double t_final, int n, double* x, double* y){
         yi = yn;
         x[i] = xn;
         y[i] = yn;
-        
     }
 }

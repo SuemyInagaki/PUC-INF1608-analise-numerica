@@ -26,7 +26,7 @@ int main(){
     // }
     simula(x0, y0, t_final, n, x, y);
     for(int i = 0; i < n; i++){
-        printf("%f, %f\n", x[i], y[i]);
+        printf("%f %f\n", x[i], y[i]);
     }
     return 0;
 }
