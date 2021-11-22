@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 8 - 23/10/2021
 EDO
+Nota:10.0
 */
 #ifndef ODE_H
 #define ODE_H
