@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 7 - 11/10/2021
 Metodos de Integração Adaptativa
+Nota: 10.0
 */
 
 //gcc main.c trapezio.c -lm -o trapezio
