@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 9 - 01/11/2021
 Simulação Física
+Nota: 10.0
 */
 
 #include<math.h>
