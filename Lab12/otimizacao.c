@@ -3,6 +3,7 @@ Nome: Suemy Inagaki Pinheiro Fagundes
 INF1608 - Analise Numerica
 Lab 12 - 22/11/2021
 Otimização
+Nota: 10.0
 */
 
 #include<math.h>
